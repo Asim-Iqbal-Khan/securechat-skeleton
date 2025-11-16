@@ -18,7 +18,7 @@ env/
 logs/*.log
 transcripts/*.txt
 *.pcap
-
+transcripts/*.json
 # Database
 *.sql
 
